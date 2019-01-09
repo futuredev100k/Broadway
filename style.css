@@ -6,15 +6,16 @@ h1 {
   text-align: center;
 }
 
-h4 {
+ul {
   text-align: center;
   font-family: Helvetica;
   color: white;
 }
-div {
+ul {
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
   background-repeat: no-repeat;
   background-size: cover;
+  list-style: none;
 }
 
 h2 {
